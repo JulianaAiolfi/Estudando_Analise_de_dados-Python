@@ -1,4 +1,4 @@
-# Estudando Analise de dados com Python
+# Estudando - Análise de dados com Python
 Conteúdo programático (Carga horária: 32 horas)
 * Revisão de Fundamentos de Python (Criação de variáveis;Tipos de variáveis;Listas;Tuplas;If-else;Laços)
 * Introdução ao shell IPython e Jupyter Notebook (Principais funcionalidades de ambas as ferramentas)
